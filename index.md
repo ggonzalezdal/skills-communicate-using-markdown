@@ -19,6 +19,15 @@ for (int i = 0; i < count; i++)
 }
 Console.WriteLine();
 ```
+### Task List
+#### My tasks
+- [x] Made a GitHub account
+- [x] Create my profile README.md
+- [x] Start learning
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 Add header and subheder
+
 
 
